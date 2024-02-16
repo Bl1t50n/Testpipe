@@ -1,0 +1,12 @@
+C:\Users\Belissandro\Downloads\03.01.2024 Test Automation5\03.01.2024 Test Automation\TestsAutomation\bin\Debug\net6.0\TestsAutomation.deps.json
+C:\Users\Belissandro\Downloads\03.01.2024 Test Automation5\03.01.2024 Test Automation\TestsAutomation\bin\Debug\net6.0\TestsAutomation.dll
+C:\Users\Belissandro\Downloads\03.01.2024 Test Automation5\03.01.2024 Test Automation\TestsAutomation\bin\Debug\net6.0\TestsAutomation.pdb
+C:\Users\Belissandro\Downloads\03.01.2024 Test Automation5\03.01.2024 Test Automation\TestsAutomation\obj\Debug\net6.0\TestsAutomation.csproj.AssemblyReference.cache
+C:\Users\Belissandro\Downloads\03.01.2024 Test Automation5\03.01.2024 Test Automation\TestsAutomation\obj\Debug\net6.0\TestsAutomation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Belissandro\Downloads\03.01.2024 Test Automation5\03.01.2024 Test Automation\TestsAutomation\obj\Debug\net6.0\TestsAutomation.AssemblyInfoInputs.cache
+C:\Users\Belissandro\Downloads\03.01.2024 Test Automation5\03.01.2024 Test Automation\TestsAutomation\obj\Debug\net6.0\TestsAutomation.AssemblyInfo.cs
+C:\Users\Belissandro\Downloads\03.01.2024 Test Automation5\03.01.2024 Test Automation\TestsAutomation\obj\Debug\net6.0\TestsAutomation.csproj.CoreCompileInputs.cache
+C:\Users\Belissandro\Downloads\03.01.2024 Test Automation5\03.01.2024 Test Automation\TestsAutomation\obj\Debug\net6.0\TestsAutomation.dll
+C:\Users\Belissandro\Downloads\03.01.2024 Test Automation5\03.01.2024 Test Automation\TestsAutomation\obj\Debug\net6.0\refint\TestsAutomation.dll
+C:\Users\Belissandro\Downloads\03.01.2024 Test Automation5\03.01.2024 Test Automation\TestsAutomation\obj\Debug\net6.0\TestsAutomation.pdb
+C:\Users\Belissandro\Downloads\03.01.2024 Test Automation5\03.01.2024 Test Automation\TestsAutomation\obj\Debug\net6.0\ref\TestsAutomation.dll

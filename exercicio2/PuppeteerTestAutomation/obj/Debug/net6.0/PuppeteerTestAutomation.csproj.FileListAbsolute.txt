@@ -1,0 +1,74 @@
+C:\Users\DiogoOlival\OneDrive - Product League\Documents\02. IPP\202334\DevOps\13.12.2023 Puppeteer\ConsoleApp\PuppeteerTestAutomation\bin\Debug\net6.0\PuppeteerTestAutomation.exe
+C:\Users\DiogoOlival\OneDrive - Product League\Documents\02. IPP\202334\DevOps\13.12.2023 Puppeteer\ConsoleApp\PuppeteerTestAutomation\bin\Debug\net6.0\PuppeteerTestAutomation.deps.json
+C:\Users\DiogoOlival\OneDrive - Product League\Documents\02. IPP\202334\DevOps\13.12.2023 Puppeteer\ConsoleApp\PuppeteerTestAutomation\bin\Debug\net6.0\PuppeteerTestAutomation.runtimeconfig.json
+C:\Users\DiogoOlival\OneDrive - Product League\Documents\02. IPP\202334\DevOps\13.12.2023 Puppeteer\ConsoleApp\PuppeteerTestAutomation\bin\Debug\net6.0\PuppeteerTestAutomation.dll
+C:\Users\DiogoOlival\OneDrive - Product League\Documents\02. IPP\202334\DevOps\13.12.2023 Puppeteer\ConsoleApp\PuppeteerTestAutomation\bin\Debug\net6.0\PuppeteerTestAutomation.pdb
+C:\Users\DiogoOlival\OneDrive - Product League\Documents\02. IPP\202334\DevOps\13.12.2023 Puppeteer\ConsoleApp\PuppeteerTestAutomation\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DiogoOlival\OneDrive - Product League\Documents\02. IPP\202334\DevOps\13.12.2023 Puppeteer\ConsoleApp\PuppeteerTestAutomation\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DiogoOlival\OneDrive - Product League\Documents\02. IPP\202334\DevOps\13.12.2023 Puppeteer\ConsoleApp\PuppeteerTestAutomation\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\DiogoOlival\OneDrive - Product League\Documents\02. IPP\202334\DevOps\13.12.2023 Puppeteer\ConsoleApp\PuppeteerTestAutomation\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DiogoOlival\OneDrive - Product League\Documents\02. IPP\202334\DevOps\13.12.2023 Puppeteer\ConsoleApp\PuppeteerTestAutomation\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\DiogoOlival\OneDrive - Product League\Documents\02. IPP\202334\DevOps\13.12.2023 Puppeteer\ConsoleApp\PuppeteerTestAutomation\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\DiogoOlival\OneDrive - Product League\Documents\02. IPP\202334\DevOps\13.12.2023 Puppeteer\ConsoleApp\PuppeteerTestAutomation\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\DiogoOlival\OneDrive - Product League\Documents\02. IPP\202334\DevOps\13.12.2023 Puppeteer\ConsoleApp\PuppeteerTestAutomation\bin\Debug\net6.0\PuppeteerSharp.dll
+C:\Users\DiogoOlival\OneDrive - Product League\Documents\02. IPP\202334\DevOps\13.12.2023 Puppeteer\ConsoleApp\PuppeteerTestAutomation\obj\Debug\net6.0\PuppeteerTestAutomation.csproj.AssemblyReference.cache
+C:\Users\DiogoOlival\OneDrive - Product League\Documents\02. IPP\202334\DevOps\13.12.2023 Puppeteer\ConsoleApp\PuppeteerTestAutomation\obj\Debug\net6.0\PuppeteerTestAutomation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DiogoOlival\OneDrive - Product League\Documents\02. IPP\202334\DevOps\13.12.2023 Puppeteer\ConsoleApp\PuppeteerTestAutomation\obj\Debug\net6.0\PuppeteerTestAutomation.AssemblyInfoInputs.cache
+C:\Users\DiogoOlival\OneDrive - Product League\Documents\02. IPP\202334\DevOps\13.12.2023 Puppeteer\ConsoleApp\PuppeteerTestAutomation\obj\Debug\net6.0\PuppeteerTestAutomation.AssemblyInfo.cs
+C:\Users\DiogoOlival\OneDrive - Product League\Documents\02. IPP\202334\DevOps\13.12.2023 Puppeteer\ConsoleApp\PuppeteerTestAutomation\obj\Debug\net6.0\PuppeteerTestAutomation.csproj.CoreCompileInputs.cache
+C:\Users\DiogoOlival\OneDrive - Product League\Documents\02. IPP\202334\DevOps\13.12.2023 Puppeteer\ConsoleApp\PuppeteerTestAutomation\obj\Debug\net6.0\PuppeteerTestAutomation.csproj.CopyComplete
+C:\Users\DiogoOlival\OneDrive - Product League\Documents\02. IPP\202334\DevOps\13.12.2023 Puppeteer\ConsoleApp\PuppeteerTestAutomation\obj\Debug\net6.0\PuppeteerTestAutomation.dll
+C:\Users\DiogoOlival\OneDrive - Product League\Documents\02. IPP\202334\DevOps\13.12.2023 Puppeteer\ConsoleApp\PuppeteerTestAutomation\obj\Debug\net6.0\refint\PuppeteerTestAutomation.dll
+C:\Users\DiogoOlival\OneDrive - Product League\Documents\02. IPP\202334\DevOps\13.12.2023 Puppeteer\ConsoleApp\PuppeteerTestAutomation\obj\Debug\net6.0\PuppeteerTestAutomation.pdb
+C:\Users\DiogoOlival\OneDrive - Product League\Documents\02. IPP\202334\DevOps\13.12.2023 Puppeteer\ConsoleApp\PuppeteerTestAutomation\obj\Debug\net6.0\PuppeteerTestAutomation.genruntimeconfig.cache
+C:\Users\DiogoOlival\OneDrive - Product League\Documents\02. IPP\202334\DevOps\13.12.2023 Puppeteer\ConsoleApp\PuppeteerTestAutomation\obj\Debug\net6.0\ref\PuppeteerTestAutomation.dll
+C:\13.12.2023 Puppeteer\ConsoleApp\PuppeteerTestAutomation\bin\Debug\net6.0\PuppeteerTestAutomation.exe
+C:\13.12.2023 Puppeteer\ConsoleApp\PuppeteerTestAutomation\bin\Debug\net6.0\PuppeteerTestAutomation.deps.json
+C:\13.12.2023 Puppeteer\ConsoleApp\PuppeteerTestAutomation\bin\Debug\net6.0\PuppeteerTestAutomation.runtimeconfig.json
+C:\13.12.2023 Puppeteer\ConsoleApp\PuppeteerTestAutomation\bin\Debug\net6.0\PuppeteerTestAutomation.dll
+C:\13.12.2023 Puppeteer\ConsoleApp\PuppeteerTestAutomation\bin\Debug\net6.0\PuppeteerTestAutomation.pdb
+C:\13.12.2023 Puppeteer\ConsoleApp\PuppeteerTestAutomation\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\13.12.2023 Puppeteer\ConsoleApp\PuppeteerTestAutomation\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\13.12.2023 Puppeteer\ConsoleApp\PuppeteerTestAutomation\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\13.12.2023 Puppeteer\ConsoleApp\PuppeteerTestAutomation\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\13.12.2023 Puppeteer\ConsoleApp\PuppeteerTestAutomation\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\13.12.2023 Puppeteer\ConsoleApp\PuppeteerTestAutomation\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\13.12.2023 Puppeteer\ConsoleApp\PuppeteerTestAutomation\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\13.12.2023 Puppeteer\ConsoleApp\PuppeteerTestAutomation\bin\Debug\net6.0\PuppeteerSharp.dll
+C:\13.12.2023 Puppeteer\ConsoleApp\PuppeteerTestAutomation\obj\Debug\net6.0\PuppeteerTestAutomation.csproj.AssemblyReference.cache
+C:\13.12.2023 Puppeteer\ConsoleApp\PuppeteerTestAutomation\obj\Debug\net6.0\PuppeteerTestAutomation.GeneratedMSBuildEditorConfig.editorconfig
+C:\13.12.2023 Puppeteer\ConsoleApp\PuppeteerTestAutomation\obj\Debug\net6.0\PuppeteerTestAutomation.AssemblyInfoInputs.cache
+C:\13.12.2023 Puppeteer\ConsoleApp\PuppeteerTestAutomation\obj\Debug\net6.0\PuppeteerTestAutomation.AssemblyInfo.cs
+C:\13.12.2023 Puppeteer\ConsoleApp\PuppeteerTestAutomation\obj\Debug\net6.0\PuppeteerTestAutomation.csproj.CoreCompileInputs.cache
+C:\13.12.2023 Puppeteer\ConsoleApp\PuppeteerTestAutomation\obj\Debug\net6.0\PuppeteerTestAutomation.csproj.CopyComplete
+C:\13.12.2023 Puppeteer\ConsoleApp\PuppeteerTestAutomation\obj\Debug\net6.0\PuppeteerTestAutomation.dll
+C:\13.12.2023 Puppeteer\ConsoleApp\PuppeteerTestAutomation\obj\Debug\net6.0\refint\PuppeteerTestAutomation.dll
+C:\13.12.2023 Puppeteer\ConsoleApp\PuppeteerTestAutomation\obj\Debug\net6.0\PuppeteerTestAutomation.pdb
+C:\13.12.2023 Puppeteer\ConsoleApp\PuppeteerTestAutomation\obj\Debug\net6.0\PuppeteerTestAutomation.genruntimeconfig.cache
+C:\13.12.2023 Puppeteer\ConsoleApp\PuppeteerTestAutomation\obj\Debug\net6.0\ref\PuppeteerTestAutomation.dll
+C:\Users\Belissandro\Downloads\03.01.2024 Test Automation5\03.01.2024 Test Automation\PuppeteerTestAutomation\bin\Debug\net6.0\PuppeteerTestAutomation.exe
+C:\Users\Belissandro\Downloads\03.01.2024 Test Automation5\03.01.2024 Test Automation\PuppeteerTestAutomation\bin\Debug\net6.0\PuppeteerTestAutomation.deps.json
+C:\Users\Belissandro\Downloads\03.01.2024 Test Automation5\03.01.2024 Test Automation\PuppeteerTestAutomation\bin\Debug\net6.0\PuppeteerTestAutomation.runtimeconfig.json
+C:\Users\Belissandro\Downloads\03.01.2024 Test Automation5\03.01.2024 Test Automation\PuppeteerTestAutomation\bin\Debug\net6.0\PuppeteerTestAutomation.dll
+C:\Users\Belissandro\Downloads\03.01.2024 Test Automation5\03.01.2024 Test Automation\PuppeteerTestAutomation\bin\Debug\net6.0\PuppeteerTestAutomation.pdb
+C:\Users\Belissandro\Downloads\03.01.2024 Test Automation5\03.01.2024 Test Automation\PuppeteerTestAutomation\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Belissandro\Downloads\03.01.2024 Test Automation5\03.01.2024 Test Automation\PuppeteerTestAutomation\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Belissandro\Downloads\03.01.2024 Test Automation5\03.01.2024 Test Automation\PuppeteerTestAutomation\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Belissandro\Downloads\03.01.2024 Test Automation5\03.01.2024 Test Automation\PuppeteerTestAutomation\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Belissandro\Downloads\03.01.2024 Test Automation5\03.01.2024 Test Automation\PuppeteerTestAutomation\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Belissandro\Downloads\03.01.2024 Test Automation5\03.01.2024 Test Automation\PuppeteerTestAutomation\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Belissandro\Downloads\03.01.2024 Test Automation5\03.01.2024 Test Automation\PuppeteerTestAutomation\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Belissandro\Downloads\03.01.2024 Test Automation5\03.01.2024 Test Automation\PuppeteerTestAutomation\bin\Debug\net6.0\PuppeteerSharp.dll
+C:\Users\Belissandro\Downloads\03.01.2024 Test Automation5\03.01.2024 Test Automation\PuppeteerTestAutomation\bin\Debug\net6.0\TestsAutomation.dll
+C:\Users\Belissandro\Downloads\03.01.2024 Test Automation5\03.01.2024 Test Automation\PuppeteerTestAutomation\bin\Debug\net6.0\TestsAutomation.pdb
+C:\Users\Belissandro\Downloads\03.01.2024 Test Automation5\03.01.2024 Test Automation\PuppeteerTestAutomation\obj\Debug\net6.0\PuppeteerTestAutomation.csproj.AssemblyReference.cache
+C:\Users\Belissandro\Downloads\03.01.2024 Test Automation5\03.01.2024 Test Automation\PuppeteerTestAutomation\obj\Debug\net6.0\PuppeteerTestAutomation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Belissandro\Downloads\03.01.2024 Test Automation5\03.01.2024 Test Automation\PuppeteerTestAutomation\obj\Debug\net6.0\PuppeteerTestAutomation.AssemblyInfoInputs.cache
+C:\Users\Belissandro\Downloads\03.01.2024 Test Automation5\03.01.2024 Test Automation\PuppeteerTestAutomation\obj\Debug\net6.0\PuppeteerTestAutomation.AssemblyInfo.cs
+C:\Users\Belissandro\Downloads\03.01.2024 Test Automation5\03.01.2024 Test Automation\PuppeteerTestAutomation\obj\Debug\net6.0\PuppeteerTestAutomation.csproj.CoreCompileInputs.cache
+C:\Users\Belissandro\Downloads\03.01.2024 Test Automation5\03.01.2024 Test Automation\PuppeteerTestAutomation\obj\Debug\net6.0\PuppeteerTestAutomation.csproj.CopyComplete
+C:\Users\Belissandro\Downloads\03.01.2024 Test Automation5\03.01.2024 Test Automation\PuppeteerTestAutomation\obj\Debug\net6.0\PuppeteerTestAutomation.dll
+C:\Users\Belissandro\Downloads\03.01.2024 Test Automation5\03.01.2024 Test Automation\PuppeteerTestAutomation\obj\Debug\net6.0\refint\PuppeteerTestAutomation.dll
+C:\Users\Belissandro\Downloads\03.01.2024 Test Automation5\03.01.2024 Test Automation\PuppeteerTestAutomation\obj\Debug\net6.0\PuppeteerTestAutomation.pdb
+C:\Users\Belissandro\Downloads\03.01.2024 Test Automation5\03.01.2024 Test Automation\PuppeteerTestAutomation\obj\Debug\net6.0\PuppeteerTestAutomation.genruntimeconfig.cache
+C:\Users\Belissandro\Downloads\03.01.2024 Test Automation5\03.01.2024 Test Automation\PuppeteerTestAutomation\obj\Debug\net6.0\ref\PuppeteerTestAutomation.dll
